@@ -1,2 +1,2 @@
-# ramaesa
+# Rama Esa
 Github profile README
